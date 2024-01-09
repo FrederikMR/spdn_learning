@@ -1,0 +1,17 @@
+Loaded dependency [python3/3.10.12]: gcc/11.4.0-binutils-2.40
+Loaded dependency [python3/3.10.12]: sqlite3/3.42.0
+
+Switching from python3/3.8.2 to python3/3.10.12
+  Loading requirement: gcc/11.4.0-binutils-2.40 sqlite3/3.42.0
+Traceback (most recent call last):
+  File "/zhome/77/8/118225/Desktop/Projects/st_manifold_learning/st_manifold_learning/train_VAE.py", line 180, in <module>
+    main()
+  File "/zhome/77/8/118225/Desktop/Projects/st_manifold_learning/st_manifold_learning/train_VAE.py", line 158, in main
+    torch.save({'epoch': epoch+1,
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/serialization.py", line 618, in save
+    with _open_zipfile_writer(f) as opened_zipfile:
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/serialization.py", line 492, in _open_zipfile_writer
+    return container(name_or_buffer)
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/serialization.py", line 463, in __init__
+    super().__init__(torch._C.PyTorchFileWriter(self.name))
+RuntimeError: Parent directory ../../Data/DTU does not exist.

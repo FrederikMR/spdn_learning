@@ -1,0 +1,64 @@
+Saving Epoch: 1/50000 
+	 -ELBO = 112.0078 
+	 -ML = 111.5665 
+	 -KLD = 0.4412
+Saving Epoch: 100/50000 
+	 -ELBO = -21.8285 
+	 -ML = -23.0020 
+	 -KLD = 1.1736
+Saving Epoch: 200/50000 
+	 -ELBO = -23.9087 
+	 -ML = -25.0891 
+	 -KLD = 1.1804
+Saving Epoch: 300/50000 
+	 -ELBO = -24.9211 
+	 -ML = -26.1040 
+	 -KLD = 1.1829
+Saving Epoch: 400/50000 
+	 -ELBO = -25.5826 
+	 -ML = -26.7655 
+	 -KLD = 1.1829
+Saving Epoch: 500/50000 
+	 -ELBO = -26.1147 
+	 -ML = -27.3012 
+	 -KLD = 1.1865
+Saving Epoch: 600/50000 
+	 -ELBO = -26.4293 
+	 -ML = -27.6164 
+	 -KLD = 1.1871
+Saving Epoch: 700/50000 
+	 -ELBO = -26.7645 
+	 -ML = -27.9520 
+	 -KLD = 1.1875
+Saving Epoch: 800/50000 
+	 -ELBO = -26.9833 
+	 -ML = -28.1711 
+	 -KLD = 1.1878
+Saving Epoch: 900/50000 
+	 -ELBO = -27.2308 
+	 -ML = -28.4177 
+	 -KLD = 1.1870
+Saving Epoch: 1000/50000 
+	 -ELBO = -27.3840 
+	 -ML = -28.5721 
+	 -KLD = 1.1882
+Saving Epoch: 1100/50000 
+	 -ELBO = -27.5726 
+	 -ML = -28.7607 
+	 -KLD = 1.1881
+Saving Epoch: 1200/50000 
+	 -ELBO = -27.6918 
+	 -ML = -28.8805 
+	 -KLD = 1.1887
+Saving Epoch: 1300/50000 
+	 -ELBO = -27.8148 
+	 -ML = -29.0031 
+	 -KLD = 1.1882
+Saving Epoch: 1400/50000 
+	 -ELBO = -27.9213 
+	 -ML = -29.1098 
+	 -KLD = 1.1885
+Saving Epoch: 1500/50000 
+	 -ELBO = -28.1015 
+	 -ML = -29.2902 
+	 -KLD = 1.1887

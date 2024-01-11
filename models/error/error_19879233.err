@@ -1,0 +1,29 @@
+Loaded dependency [python3/3.10.12]: gcc/11.4.0-binutils-2.40
+Loaded dependency [python3/3.10.12]: sqlite3/3.42.0
+
+Switching from python3/3.8.2 to python3/3.10.12
+  Loading requirement: gcc/11.4.0-binutils-2.40 sqlite3/3.42.0
+Traceback (most recent call last):
+  File "/zhome/77/8/118225/Desktop/Projects/spdn_learning/spdn_learning/train_VAE.py", line 279, in <module>
+    main()
+  File "/zhome/77/8/118225/Desktop/Projects/spdn_learning/spdn_learning/train_VAE.py", line 238, in main
+    _, x_hat, mu, var, kld, rec_loss, elbo = model(dat)
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/zhome/77/8/118225/Desktop/Projects/spdn_learning/spdn_learning/manlearn/VAE_DTU.py", line 143, in forward
+    mu, std = self.encoder(x)
+  File "/zhome/77/8/118225/Desktop/Projects/spdn_learning/spdn_learning/manlearn/VAE_DTU.py", line 86, in encoder
+    x5 = self.GELU(self.h_batch5(self.h_fc(x4)))
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/nn/modules/batchnorm.py", line 171, in forward
+    return F.batch_norm(
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/nn/functional.py", line 2476, in batch_norm
+    _verify_batch_size(input.size())
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/nn/functional.py", line 2444, in _verify_batch_size
+    raise ValueError(f"Expected more than 1 value per channel when training, got input size {size}")
+ValueError: Expected more than 1 value per channel when training, got input size torch.Size([1, 256])

@@ -1,0 +1,23 @@
+Loaded dependency [python3/3.10.12]: gcc/11.4.0-binutils-2.40
+Loaded dependency [python3/3.10.12]: sqlite3/3.42.0
+
+Switching from python3/3.8.2 to python3/3.10.12
+  Loading requirement: gcc/11.4.0-binutils-2.40 sqlite3/3.42.0
+Traceback (most recent call last):
+  File "/zhome/77/8/118225/Desktop/Projects/spdn_learning/spdn_learning/train_VAE.py", line 279, in <module>
+    main()
+  File "/zhome/77/8/118225/Desktop/Projects/spdn_learning/spdn_learning/train_VAE.py", line 123, in main
+    dataset, trainloader = manlearn.load_surface(data_path,
+  File "/zhome/77/8/118225/Desktop/Projects/spdn_learning/spdn_learning/manlearn/data_loader.py", line 109, in load_surface
+    df = pd.read_csv(path)
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 948, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 611, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1448, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1705, in _make_engine
+    self.handles = get_handle(
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/pandas/io/common.py", line 863, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'data/R2/data.csv'

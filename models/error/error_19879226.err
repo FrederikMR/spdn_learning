@@ -1,0 +1,31 @@
+Loaded dependency [python3/3.10.12]: gcc/11.4.0-binutils-2.40
+Loaded dependency [python3/3.10.12]: sqlite3/3.42.0
+
+Switching from python3/3.8.2 to python3/3.10.12
+  Loading requirement: gcc/11.4.0-binutils-2.40 sqlite3/3.42.0
+Traceback (most recent call last):
+  File "/zhome/77/8/118225/Desktop/Projects/spdn_learning/spdn_learning/train_VAE.py", line 17, in <module>
+    import torch
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/__init__.py", line 1382, in <module>
+    from .functional import *  # noqa: F403
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/functional.py", line 7, in <module>
+    import torch.nn.functional as F
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/nn/__init__.py", line 1, in <module>
+    from .modules import *  # noqa: F403
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/nn/modules/__init__.py", line 2, in <module>
+    from .linear import Identity, Linear, Bilinear, LazyLinear
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/nn/modules/linear.py", line 7, in <module>
+    from .. import functional as F
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/nn/functional.py", line 20, in <module>
+    from .._jit_internal import boolean_dispatch, _overload, BroadcastingList1, BroadcastingList2, BroadcastingList3
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/_jit_internal.py", line 42, in <module>
+    import torch.package._mangling as package_mangling
+  File "/zhome/77/8/118225/.local/lib/python3.10/site-packages/torch/package/__init__.py", line 2, in <module>
+    from .file_structure_representation import Directory
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 975, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1074, in get_data
+KeyboardInterrupt

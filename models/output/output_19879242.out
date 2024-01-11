@@ -1,0 +1,2004 @@
+Saving Epoch: 1/50000 
+	 -ELBO = 0.0530 
+	 -ML = 0.0483 
+	 -KLD = 0.0047
+Saving Epoch: 100/50000 
+	 -ELBO = 0.0422 
+	 -ML = 0.0160 
+	 -KLD = 0.0262
+Saving Epoch: 200/50000 
+	 -ELBO = 0.0413 
+	 -ML = 0.0114 
+	 -KLD = 0.0298
+Saving Epoch: 300/50000 
+	 -ELBO = 0.0406 
+	 -ML = 0.0085 
+	 -KLD = 0.0322
+Saving Epoch: 400/50000 
+	 -ELBO = 0.0401 
+	 -ML = 0.0063 
+	 -KLD = 0.0337
+Saving Epoch: 500/50000 
+	 -ELBO = 0.0397 
+	 -ML = 0.0046 
+	 -KLD = 0.0351
+Saving Epoch: 600/50000 
+	 -ELBO = 0.0394 
+	 -ML = 0.0029 
+	 -KLD = 0.0365
+Saving Epoch: 700/50000 
+	 -ELBO = 0.0391 
+	 -ML = 0.0015 
+	 -KLD = 0.0376
+Saving Epoch: 800/50000 
+	 -ELBO = 0.0388 
+	 -ML = 0.0003 
+	 -KLD = 0.0385
+Saving Epoch: 900/50000 
+	 -ELBO = 0.0384 
+	 -ML = -0.0010 
+	 -KLD = 0.0394
+Saving Epoch: 1000/50000 
+	 -ELBO = 0.0383 
+	 -ML = -0.0019 
+	 -KLD = 0.0402
+Saving Epoch: 1100/50000 
+	 -ELBO = 0.0381 
+	 -ML = -0.0029 
+	 -KLD = 0.0409
+Saving Epoch: 1200/50000 
+	 -ELBO = 0.0378 
+	 -ML = -0.0036 
+	 -KLD = 0.0414
+Saving Epoch: 1300/50000 
+	 -ELBO = 0.0377 
+	 -ML = -0.0044 
+	 -KLD = 0.0421
+Saving Epoch: 1400/50000 
+	 -ELBO = 0.0374 
+	 -ML = -0.0051 
+	 -KLD = 0.0426
+Saving Epoch: 1500/50000 
+	 -ELBO = 0.0373 
+	 -ML = -0.0057 
+	 -KLD = 0.0430
+Saving Epoch: 1600/50000 
+	 -ELBO = 0.0372 
+	 -ML = -0.0063 
+	 -KLD = 0.0434
+Saving Epoch: 1700/50000 
+	 -ELBO = 0.0370 
+	 -ML = -0.0069 
+	 -KLD = 0.0439
+Saving Epoch: 1800/50000 
+	 -ELBO = 0.0370 
+	 -ML = -0.0073 
+	 -KLD = 0.0443
+Saving Epoch: 1900/50000 
+	 -ELBO = 0.0369 
+	 -ML = -0.0078 
+	 -KLD = 0.0447
+Saving Epoch: 2000/50000 
+	 -ELBO = 0.0366 
+	 -ML = -0.0084 
+	 -KLD = 0.0450
+Saving Epoch: 2100/50000 
+	 -ELBO = 0.0366 
+	 -ML = -0.0090 
+	 -KLD = 0.0456
+Saving Epoch: 2200/50000 
+	 -ELBO = 0.0363 
+	 -ML = -0.0096 
+	 -KLD = 0.0459
+Saving Epoch: 2300/50000 
+	 -ELBO = 0.0364 
+	 -ML = -0.0100 
+	 -KLD = 0.0463
+Saving Epoch: 2400/50000 
+	 -ELBO = 0.0363 
+	 -ML = -0.0104 
+	 -KLD = 0.0467
+Saving Epoch: 2500/50000 
+	 -ELBO = 0.0361 
+	 -ML = -0.0109 
+	 -KLD = 0.0470
+Saving Epoch: 2600/50000 
+	 -ELBO = 0.0361 
+	 -ML = -0.0114 
+	 -KLD = 0.0475
+Saving Epoch: 2700/50000 
+	 -ELBO = 0.0360 
+	 -ML = -0.0117 
+	 -KLD = 0.0477
+Saving Epoch: 2800/50000 
+	 -ELBO = 0.0359 
+	 -ML = -0.0122 
+	 -KLD = 0.0480
+Saving Epoch: 2900/50000 
+	 -ELBO = 0.0358 
+	 -ML = -0.0125 
+	 -KLD = 0.0483
+Saving Epoch: 3000/50000 
+	 -ELBO = 0.0357 
+	 -ML = -0.0130 
+	 -KLD = 0.0487
+Saving Epoch: 3100/50000 
+	 -ELBO = 0.0356 
+	 -ML = -0.0133 
+	 -KLD = 0.0489
+Saving Epoch: 3200/50000 
+	 -ELBO = 0.0355 
+	 -ML = -0.0137 
+	 -KLD = 0.0492
+Saving Epoch: 3300/50000 
+	 -ELBO = 0.0354 
+	 -ML = -0.0142 
+	 -KLD = 0.0495
+Saving Epoch: 3400/50000 
+	 -ELBO = 0.0354 
+	 -ML = -0.0143 
+	 -KLD = 0.0497
+Saving Epoch: 3500/50000 
+	 -ELBO = 0.0354 
+	 -ML = -0.0147 
+	 -KLD = 0.0501
+Saving Epoch: 3600/50000 
+	 -ELBO = 0.0351 
+	 -ML = -0.0150 
+	 -KLD = 0.0501
+Saving Epoch: 3700/50000 
+	 -ELBO = 0.0352 
+	 -ML = -0.0154 
+	 -KLD = 0.0505
+Saving Epoch: 3800/50000 
+	 -ELBO = 0.0351 
+	 -ML = -0.0156 
+	 -KLD = 0.0507
+Saving Epoch: 3900/50000 
+	 -ELBO = 0.0350 
+	 -ML = -0.0160 
+	 -KLD = 0.0510
+Saving Epoch: 4000/50000 
+	 -ELBO = 0.0350 
+	 -ML = -0.0162 
+	 -KLD = 0.0511
+Saving Epoch: 4100/50000 
+	 -ELBO = 0.0349 
+	 -ML = -0.0165 
+	 -KLD = 0.0514
+Saving Epoch: 4200/50000 
+	 -ELBO = 0.0347 
+	 -ML = -0.0168 
+	 -KLD = 0.0516
+Saving Epoch: 4300/50000 
+	 -ELBO = 0.0348 
+	 -ML = -0.0168 
+	 -KLD = 0.0516
+Saving Epoch: 4400/50000 
+	 -ELBO = 0.0347 
+	 -ML = -0.0171 
+	 -KLD = 0.0519
+Saving Epoch: 4500/50000 
+	 -ELBO = 0.0347 
+	 -ML = -0.0174 
+	 -KLD = 0.0520
+Saving Epoch: 4600/50000 
+	 -ELBO = 0.0346 
+	 -ML = -0.0178 
+	 -KLD = 0.0523
+Saving Epoch: 4700/50000 
+	 -ELBO = 0.0345 
+	 -ML = -0.0179 
+	 -KLD = 0.0524
+Saving Epoch: 4800/50000 
+	 -ELBO = 0.0345 
+	 -ML = -0.0182 
+	 -KLD = 0.0527
+Saving Epoch: 4900/50000 
+	 -ELBO = 0.0344 
+	 -ML = -0.0184 
+	 -KLD = 0.0528
+Saving Epoch: 5000/50000 
+	 -ELBO = 0.0345 
+	 -ML = -0.0185 
+	 -KLD = 0.0530
+Saving Epoch: 5100/50000 
+	 -ELBO = 0.0344 
+	 -ML = -0.0187 
+	 -KLD = 0.0532
+Saving Epoch: 5200/50000 
+	 -ELBO = 0.0342 
+	 -ML = -0.0191 
+	 -KLD = 0.0533
+Saving Epoch: 5300/50000 
+	 -ELBO = 0.0343 
+	 -ML = -0.0191 
+	 -KLD = 0.0534
+Saving Epoch: 5400/50000 
+	 -ELBO = 0.0343 
+	 -ML = -0.0194 
+	 -KLD = 0.0537
+Saving Epoch: 5500/50000 
+	 -ELBO = 0.0342 
+	 -ML = -0.0196 
+	 -KLD = 0.0538
+Saving Epoch: 5600/50000 
+	 -ELBO = 0.0341 
+	 -ML = -0.0198 
+	 -KLD = 0.0539
+Saving Epoch: 5700/50000 
+	 -ELBO = 0.0341 
+	 -ML = -0.0199 
+	 -KLD = 0.0540
+Saving Epoch: 5800/50000 
+	 -ELBO = 0.0340 
+	 -ML = -0.0201 
+	 -KLD = 0.0541
+Saving Epoch: 5900/50000 
+	 -ELBO = 0.0340 
+	 -ML = -0.0203 
+	 -KLD = 0.0543
+Saving Epoch: 6000/50000 
+	 -ELBO = 0.0340 
+	 -ML = -0.0205 
+	 -KLD = 0.0545
+Saving Epoch: 6100/50000 
+	 -ELBO = 0.0339 
+	 -ML = -0.0208 
+	 -KLD = 0.0547
+Saving Epoch: 6200/50000 
+	 -ELBO = 0.0338 
+	 -ML = -0.0210 
+	 -KLD = 0.0548
+Saving Epoch: 6300/50000 
+	 -ELBO = 0.0338 
+	 -ML = -0.0211 
+	 -KLD = 0.0549
+Saving Epoch: 6400/50000 
+	 -ELBO = 0.0336 
+	 -ML = -0.0213 
+	 -KLD = 0.0550
+Saving Epoch: 6500/50000 
+	 -ELBO = 0.0337 
+	 -ML = -0.0215 
+	 -KLD = 0.0552
+Saving Epoch: 6600/50000 
+	 -ELBO = 0.0336 
+	 -ML = -0.0216 
+	 -KLD = 0.0553
+Saving Epoch: 6700/50000 
+	 -ELBO = 0.0336 
+	 -ML = -0.0219 
+	 -KLD = 0.0555
+Saving Epoch: 6800/50000 
+	 -ELBO = 0.0337 
+	 -ML = -0.0219 
+	 -KLD = 0.0556
+Saving Epoch: 6900/50000 
+	 -ELBO = 0.0337 
+	 -ML = -0.0220 
+	 -KLD = 0.0557
+Saving Epoch: 7000/50000 
+	 -ELBO = 0.0334 
+	 -ML = -0.0226 
+	 -KLD = 0.0559
+Saving Epoch: 7100/50000 
+	 -ELBO = 0.0334 
+	 -ML = -0.0226 
+	 -KLD = 0.0560
+Saving Epoch: 7200/50000 
+	 -ELBO = 0.0334 
+	 -ML = -0.0227 
+	 -KLD = 0.0562
+Saving Epoch: 7300/50000 
+	 -ELBO = 0.0335 
+	 -ML = -0.0228 
+	 -KLD = 0.0563
+Saving Epoch: 7400/50000 
+	 -ELBO = 0.0333 
+	 -ML = -0.0229 
+	 -KLD = 0.0562
+Saving Epoch: 7500/50000 
+	 -ELBO = 0.0334 
+	 -ML = -0.0230 
+	 -KLD = 0.0564
+Saving Epoch: 7600/50000 
+	 -ELBO = 0.0332 
+	 -ML = -0.0234 
+	 -KLD = 0.0566
+Saving Epoch: 7700/50000 
+	 -ELBO = 0.0332 
+	 -ML = -0.0234 
+	 -KLD = 0.0566
+Saving Epoch: 7800/50000 
+	 -ELBO = 0.0332 
+	 -ML = -0.0236 
+	 -KLD = 0.0567
+Saving Epoch: 7900/50000 
+	 -ELBO = 0.0331 
+	 -ML = -0.0237 
+	 -KLD = 0.0569
+Saving Epoch: 8000/50000 
+	 -ELBO = 0.0330 
+	 -ML = -0.0239 
+	 -KLD = 0.0569
+Saving Epoch: 8100/50000 
+	 -ELBO = 0.0330 
+	 -ML = -0.0240 
+	 -KLD = 0.0570
+Saving Epoch: 8200/50000 
+	 -ELBO = 0.0330 
+	 -ML = -0.0242 
+	 -KLD = 0.0572
+Saving Epoch: 8300/50000 
+	 -ELBO = 0.0330 
+	 -ML = -0.0242 
+	 -KLD = 0.0572
+Saving Epoch: 8400/50000 
+	 -ELBO = 0.0331 
+	 -ML = -0.0242 
+	 -KLD = 0.0574
+Saving Epoch: 8500/50000 
+	 -ELBO = 0.0329 
+	 -ML = -0.0245 
+	 -KLD = 0.0574
+Saving Epoch: 8600/50000 
+	 -ELBO = 0.0331 
+	 -ML = -0.0245 
+	 -KLD = 0.0575
+Saving Epoch: 8700/50000 
+	 -ELBO = 0.0329 
+	 -ML = -0.0247 
+	 -KLD = 0.0575
+Saving Epoch: 8800/50000 
+	 -ELBO = 0.0331 
+	 -ML = -0.0246 
+	 -KLD = 0.0577
+Saving Epoch: 8900/50000 
+	 -ELBO = 0.0328 
+	 -ML = -0.0249 
+	 -KLD = 0.0577
+Saving Epoch: 9000/50000 
+	 -ELBO = 0.0328 
+	 -ML = -0.0250 
+	 -KLD = 0.0577
+Saving Epoch: 9100/50000 
+	 -ELBO = 0.0328 
+	 -ML = -0.0251 
+	 -KLD = 0.0578
+Saving Epoch: 9200/50000 
+	 -ELBO = 0.0327 
+	 -ML = -0.0253 
+	 -KLD = 0.0580
+Saving Epoch: 9300/50000 
+	 -ELBO = 0.0327 
+	 -ML = -0.0255 
+	 -KLD = 0.0582
+Saving Epoch: 9400/50000 
+	 -ELBO = 0.0327 
+	 -ML = -0.0254 
+	 -KLD = 0.0581
+Saving Epoch: 9500/50000 
+	 -ELBO = 0.0326 
+	 -ML = -0.0256 
+	 -KLD = 0.0582
+Saving Epoch: 9600/50000 
+	 -ELBO = 0.0326 
+	 -ML = -0.0258 
+	 -KLD = 0.0584
+Saving Epoch: 9700/50000 
+	 -ELBO = 0.0326 
+	 -ML = -0.0258 
+	 -KLD = 0.0584
+Saving Epoch: 9800/50000 
+	 -ELBO = 0.0326 
+	 -ML = -0.0259 
+	 -KLD = 0.0585
+Saving Epoch: 9900/50000 
+	 -ELBO = 0.0326 
+	 -ML = -0.0259 
+	 -KLD = 0.0584
+Saving Epoch: 10000/50000 
+	 -ELBO = 0.0326 
+	 -ML = -0.0261 
+	 -KLD = 0.0587
+Saving Epoch: 10100/50000 
+	 -ELBO = 0.0326 
+	 -ML = -0.0260 
+	 -KLD = 0.0586
+Saving Epoch: 10200/50000 
+	 -ELBO = 0.0325 
+	 -ML = -0.0263 
+	 -KLD = 0.0588
+Saving Epoch: 10300/50000 
+	 -ELBO = 0.0325 
+	 -ML = -0.0264 
+	 -KLD = 0.0589
+Saving Epoch: 10400/50000 
+	 -ELBO = 0.0324 
+	 -ML = -0.0265 
+	 -KLD = 0.0588
+Saving Epoch: 10500/50000 
+	 -ELBO = 0.0323 
+	 -ML = -0.0265 
+	 -KLD = 0.0589
+Saving Epoch: 10600/50000 
+	 -ELBO = 0.0325 
+	 -ML = -0.0265 
+	 -KLD = 0.0590
+Saving Epoch: 10700/50000 
+	 -ELBO = 0.0324 
+	 -ML = -0.0266 
+	 -KLD = 0.0590
+Saving Epoch: 10800/50000 
+	 -ELBO = 0.0322 
+	 -ML = -0.0268 
+	 -KLD = 0.0590
+Saving Epoch: 10900/50000 
+	 -ELBO = 0.0324 
+	 -ML = -0.0267 
+	 -KLD = 0.0592
+Saving Epoch: 11000/50000 
+	 -ELBO = 0.0323 
+	 -ML = -0.0269 
+	 -KLD = 0.0592
+Saving Epoch: 11100/50000 
+	 -ELBO = 0.0324 
+	 -ML = -0.0269 
+	 -KLD = 0.0593
+Saving Epoch: 11200/50000 
+	 -ELBO = 0.0322 
+	 -ML = -0.0271 
+	 -KLD = 0.0593
+Saving Epoch: 11300/50000 
+	 -ELBO = 0.0323 
+	 -ML = -0.0270 
+	 -KLD = 0.0593
+Saving Epoch: 11400/50000 
+	 -ELBO = 0.0321 
+	 -ML = -0.0273 
+	 -KLD = 0.0594
+Saving Epoch: 11500/50000 
+	 -ELBO = 0.0321 
+	 -ML = -0.0274 
+	 -KLD = 0.0595
+Saving Epoch: 11600/50000 
+	 -ELBO = 0.0320 
+	 -ML = -0.0276 
+	 -KLD = 0.0596
+Saving Epoch: 11700/50000 
+	 -ELBO = 0.0320 
+	 -ML = -0.0276 
+	 -KLD = 0.0596
+Saving Epoch: 11800/50000 
+	 -ELBO = 0.0320 
+	 -ML = -0.0276 
+	 -KLD = 0.0596
+Saving Epoch: 11900/50000 
+	 -ELBO = 0.0321 
+	 -ML = -0.0276 
+	 -KLD = 0.0597
+Saving Epoch: 12000/50000 
+	 -ELBO = 0.0320 
+	 -ML = -0.0277 
+	 -KLD = 0.0597
+Saving Epoch: 12100/50000 
+	 -ELBO = 0.0319 
+	 -ML = -0.0279 
+	 -KLD = 0.0598
+Saving Epoch: 12200/50000 
+	 -ELBO = 0.0322 
+	 -ML = -0.0276 
+	 -KLD = 0.0598
+Saving Epoch: 12300/50000 
+	 -ELBO = 0.0320 
+	 -ML = -0.0278 
+	 -KLD = 0.0599
+Saving Epoch: 12400/50000 
+	 -ELBO = 0.0319 
+	 -ML = -0.0279 
+	 -KLD = 0.0599
+Saving Epoch: 12500/50000 
+	 -ELBO = 0.0318 
+	 -ML = -0.0282 
+	 -KLD = 0.0599
+Saving Epoch: 12600/50000 
+	 -ELBO = 0.0322 
+	 -ML = -0.0277 
+	 -KLD = 0.0599
+Saving Epoch: 12700/50000 
+	 -ELBO = 0.0319 
+	 -ML = -0.0282 
+	 -KLD = 0.0601
+Saving Epoch: 12800/50000 
+	 -ELBO = 0.0320 
+	 -ML = -0.0282 
+	 -KLD = 0.0601
+Saving Epoch: 12900/50000 
+	 -ELBO = 0.0319 
+	 -ML = -0.0282 
+	 -KLD = 0.0601
+Saving Epoch: 13000/50000 
+	 -ELBO = 0.0318 
+	 -ML = -0.0285 
+	 -KLD = 0.0602
+Saving Epoch: 13100/50000 
+	 -ELBO = 0.0321 
+	 -ML = -0.0282 
+	 -KLD = 0.0603
+Saving Epoch: 13200/50000 
+	 -ELBO = 0.0318 
+	 -ML = -0.0285 
+	 -KLD = 0.0603
+Saving Epoch: 13300/50000 
+	 -ELBO = 0.0320 
+	 -ML = -0.0282 
+	 -KLD = 0.0602
+Saving Epoch: 13400/50000 
+	 -ELBO = 0.0317 
+	 -ML = -0.0285 
+	 -KLD = 0.0602
+Saving Epoch: 13500/50000 
+	 -ELBO = 0.0317 
+	 -ML = -0.0287 
+	 -KLD = 0.0604
+Saving Epoch: 13600/50000 
+	 -ELBO = 0.0318 
+	 -ML = -0.0287 
+	 -KLD = 0.0605
+Saving Epoch: 13700/50000 
+	 -ELBO = 0.0318 
+	 -ML = -0.0288 
+	 -KLD = 0.0605
+Saving Epoch: 13800/50000 
+	 -ELBO = 0.0319 
+	 -ML = -0.0288 
+	 -KLD = 0.0607
+Saving Epoch: 13900/50000 
+	 -ELBO = 0.0316 
+	 -ML = -0.0290 
+	 -KLD = 0.0606
+Saving Epoch: 14000/50000 
+	 -ELBO = 0.0316 
+	 -ML = -0.0290 
+	 -KLD = 0.0607
+Saving Epoch: 14100/50000 
+	 -ELBO = 0.0316 
+	 -ML = -0.0291 
+	 -KLD = 0.0607
+Saving Epoch: 14200/50000 
+	 -ELBO = 0.0317 
+	 -ML = -0.0291 
+	 -KLD = 0.0608
+Saving Epoch: 14300/50000 
+	 -ELBO = 0.0315 
+	 -ML = -0.0292 
+	 -KLD = 0.0607
+Saving Epoch: 14400/50000 
+	 -ELBO = 0.0315 
+	 -ML = -0.0293 
+	 -KLD = 0.0608
+Saving Epoch: 14500/50000 
+	 -ELBO = 0.0316 
+	 -ML = -0.0294 
+	 -KLD = 0.0609
+Saving Epoch: 14600/50000 
+	 -ELBO = 0.0317 
+	 -ML = -0.0292 
+	 -KLD = 0.0608
+Saving Epoch: 14700/50000 
+	 -ELBO = 0.0316 
+	 -ML = -0.0294 
+	 -KLD = 0.0610
+Saving Epoch: 14800/50000 
+	 -ELBO = 0.0313 
+	 -ML = -0.0296 
+	 -KLD = 0.0608
+Saving Epoch: 14900/50000 
+	 -ELBO = 0.0314 
+	 -ML = -0.0294 
+	 -KLD = 0.0609
+Saving Epoch: 15000/50000 
+	 -ELBO = 0.0315 
+	 -ML = -0.0295 
+	 -KLD = 0.0610
+Saving Epoch: 15100/50000 
+	 -ELBO = 0.0316 
+	 -ML = -0.0295 
+	 -KLD = 0.0611
+Saving Epoch: 15200/50000 
+	 -ELBO = 0.0314 
+	 -ML = -0.0297 
+	 -KLD = 0.0611
+Saving Epoch: 15300/50000 
+	 -ELBO = 0.0315 
+	 -ML = -0.0297 
+	 -KLD = 0.0612
+Saving Epoch: 15400/50000 
+	 -ELBO = 0.0314 
+	 -ML = -0.0298 
+	 -KLD = 0.0612
+Saving Epoch: 15500/50000 
+	 -ELBO = 0.0315 
+	 -ML = -0.0297 
+	 -KLD = 0.0613
+Saving Epoch: 15600/50000 
+	 -ELBO = 0.0314 
+	 -ML = -0.0299 
+	 -KLD = 0.0613
+Saving Epoch: 15700/50000 
+	 -ELBO = 0.0315 
+	 -ML = -0.0297 
+	 -KLD = 0.0612
+Saving Epoch: 15800/50000 
+	 -ELBO = 0.0314 
+	 -ML = -0.0299 
+	 -KLD = 0.0613
+Saving Epoch: 15900/50000 
+	 -ELBO = 0.0313 
+	 -ML = -0.0301 
+	 -KLD = 0.0614
+Saving Epoch: 16000/50000 
+	 -ELBO = 0.0314 
+	 -ML = -0.0301 
+	 -KLD = 0.0614
+Saving Epoch: 16100/50000 
+	 -ELBO = 0.0313 
+	 -ML = -0.0302 
+	 -KLD = 0.0614
+Saving Epoch: 16200/50000 
+	 -ELBO = 0.0311 
+	 -ML = -0.0304 
+	 -KLD = 0.0615
+Saving Epoch: 16300/50000 
+	 -ELBO = 0.0312 
+	 -ML = -0.0304 
+	 -KLD = 0.0616
+Saving Epoch: 16400/50000 
+	 -ELBO = 0.0314 
+	 -ML = -0.0302 
+	 -KLD = 0.0617
+Saving Epoch: 16500/50000 
+	 -ELBO = 0.0313 
+	 -ML = -0.0303 
+	 -KLD = 0.0616
+Saving Epoch: 16600/50000 
+	 -ELBO = 0.0313 
+	 -ML = -0.0303 
+	 -KLD = 0.0615
+Saving Epoch: 16700/50000 
+	 -ELBO = 0.0314 
+	 -ML = -0.0303 
+	 -KLD = 0.0617
+Saving Epoch: 16800/50000 
+	 -ELBO = 0.0311 
+	 -ML = -0.0305 
+	 -KLD = 0.0616
+Saving Epoch: 16900/50000 
+	 -ELBO = 0.0312 
+	 -ML = -0.0306 
+	 -KLD = 0.0617
+Saving Epoch: 17000/50000 
+	 -ELBO = 0.0312 
+	 -ML = -0.0306 
+	 -KLD = 0.0618
+Saving Epoch: 17100/50000 
+	 -ELBO = 0.0312 
+	 -ML = -0.0306 
+	 -KLD = 0.0618
+Saving Epoch: 17200/50000 
+	 -ELBO = 0.0311 
+	 -ML = -0.0307 
+	 -KLD = 0.0618
+Saving Epoch: 17300/50000 
+	 -ELBO = 0.0310 
+	 -ML = -0.0309 
+	 -KLD = 0.0618
+Saving Epoch: 17400/50000 
+	 -ELBO = 0.0312 
+	 -ML = -0.0305 
+	 -KLD = 0.0617
+Saving Epoch: 17500/50000 
+	 -ELBO = 0.0309 
+	 -ML = -0.0308 
+	 -KLD = 0.0617
+Saving Epoch: 17600/50000 
+	 -ELBO = 0.0312 
+	 -ML = -0.0308 
+	 -KLD = 0.0619
+Saving Epoch: 17700/50000 
+	 -ELBO = 0.0309 
+	 -ML = -0.0310 
+	 -KLD = 0.0619
+Saving Epoch: 17800/50000 
+	 -ELBO = 0.0311 
+	 -ML = -0.0309 
+	 -KLD = 0.0620
+Saving Epoch: 17900/50000 
+	 -ELBO = 0.0309 
+	 -ML = -0.0311 
+	 -KLD = 0.0620
+Saving Epoch: 18000/50000 
+	 -ELBO = 0.0311 
+	 -ML = -0.0309 
+	 -KLD = 0.0620
+Saving Epoch: 18100/50000 
+	 -ELBO = 0.0309 
+	 -ML = -0.0311 
+	 -KLD = 0.0620
+Saving Epoch: 18200/50000 
+	 -ELBO = 0.0311 
+	 -ML = -0.0311 
+	 -KLD = 0.0622
+Saving Epoch: 18300/50000 
+	 -ELBO = 0.0310 
+	 -ML = -0.0313 
+	 -KLD = 0.0623
+Saving Epoch: 18400/50000 
+	 -ELBO = 0.0310 
+	 -ML = -0.0312 
+	 -KLD = 0.0622
+Saving Epoch: 18500/50000 
+	 -ELBO = 0.0309 
+	 -ML = -0.0313 
+	 -KLD = 0.0621
+Saving Epoch: 18600/50000 
+	 -ELBO = 0.0311 
+	 -ML = -0.0310 
+	 -KLD = 0.0621
+Saving Epoch: 18700/50000 
+	 -ELBO = 0.0311 
+	 -ML = -0.0311 
+	 -KLD = 0.0622
+Saving Epoch: 18800/50000 
+	 -ELBO = 0.0312 
+	 -ML = -0.0312 
+	 -KLD = 0.0624
+Saving Epoch: 18900/50000 
+	 -ELBO = 0.0308 
+	 -ML = -0.0314 
+	 -KLD = 0.0622
+Saving Epoch: 19000/50000 
+	 -ELBO = 0.0309 
+	 -ML = -0.0313 
+	 -KLD = 0.0622
+Saving Epoch: 19100/50000 
+	 -ELBO = 0.0309 
+	 -ML = -0.0312 
+	 -KLD = 0.0621
+Saving Epoch: 19200/50000 
+	 -ELBO = 0.0308 
+	 -ML = -0.0316 
+	 -KLD = 0.0624
+Saving Epoch: 19300/50000 
+	 -ELBO = 0.0308 
+	 -ML = -0.0315 
+	 -KLD = 0.0624
+Saving Epoch: 19400/50000 
+	 -ELBO = 0.0306 
+	 -ML = -0.0317 
+	 -KLD = 0.0623
+Saving Epoch: 19500/50000 
+	 -ELBO = 0.0308 
+	 -ML = -0.0316 
+	 -KLD = 0.0624
+Saving Epoch: 19600/50000 
+	 -ELBO = 0.0308 
+	 -ML = -0.0315 
+	 -KLD = 0.0623
+Saving Epoch: 19700/50000 
+	 -ELBO = 0.0309 
+	 -ML = -0.0316 
+	 -KLD = 0.0625
+Saving Epoch: 19800/50000 
+	 -ELBO = 0.0310 
+	 -ML = -0.0314 
+	 -KLD = 0.0624
+Saving Epoch: 19900/50000 
+	 -ELBO = 0.0308 
+	 -ML = -0.0317 
+	 -KLD = 0.0624
+Saving Epoch: 20000/50000 
+	 -ELBO = 0.0306 
+	 -ML = -0.0319 
+	 -KLD = 0.0625
+Saving Epoch: 20100/50000 
+	 -ELBO = 0.0306 
+	 -ML = -0.0320 
+	 -KLD = 0.0626
+Saving Epoch: 20200/50000 
+	 -ELBO = 0.0306 
+	 -ML = -0.0320 
+	 -KLD = 0.0627
+Saving Epoch: 20300/50000 
+	 -ELBO = 0.0307 
+	 -ML = -0.0319 
+	 -KLD = 0.0626
+Saving Epoch: 20400/50000 
+	 -ELBO = 0.0306 
+	 -ML = -0.0321 
+	 -KLD = 0.0627
+Saving Epoch: 20500/50000 
+	 -ELBO = 0.0309 
+	 -ML = -0.0316 
+	 -KLD = 0.0625
+Saving Epoch: 20600/50000 
+	 -ELBO = 0.0309 
+	 -ML = -0.0318 
+	 -KLD = 0.0627
+Saving Epoch: 20700/50000 
+	 -ELBO = 0.0307 
+	 -ML = -0.0319 
+	 -KLD = 0.0626
+Saving Epoch: 20800/50000 
+	 -ELBO = 0.0307 
+	 -ML = -0.0319 
+	 -KLD = 0.0626
+Saving Epoch: 20900/50000 
+	 -ELBO = 0.0307 
+	 -ML = -0.0321 
+	 -KLD = 0.0628
+Saving Epoch: 21000/50000 
+	 -ELBO = 0.0307 
+	 -ML = -0.0320 
+	 -KLD = 0.0627
+Saving Epoch: 21100/50000 
+	 -ELBO = 0.0307 
+	 -ML = -0.0321 
+	 -KLD = 0.0628
+Saving Epoch: 21200/50000 
+	 -ELBO = 0.0306 
+	 -ML = -0.0321 
+	 -KLD = 0.0627
+Saving Epoch: 21300/50000 
+	 -ELBO = 0.0307 
+	 -ML = -0.0322 
+	 -KLD = 0.0629
+Saving Epoch: 21400/50000 
+	 -ELBO = 0.0306 
+	 -ML = -0.0323 
+	 -KLD = 0.0629
+Saving Epoch: 21500/50000 
+	 -ELBO = 0.0303 
+	 -ML = -0.0324 
+	 -KLD = 0.0627
+Saving Epoch: 21600/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0323 
+	 -KLD = 0.0628
+Saving Epoch: 21700/50000 
+	 -ELBO = 0.0308 
+	 -ML = -0.0323 
+	 -KLD = 0.0630
+Saving Epoch: 21800/50000 
+	 -ELBO = 0.0306 
+	 -ML = -0.0322 
+	 -KLD = 0.0628
+Saving Epoch: 21900/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0323 
+	 -KLD = 0.0628
+Saving Epoch: 22000/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0325 
+	 -KLD = 0.0630
+Saving Epoch: 22100/50000 
+	 -ELBO = 0.0306 
+	 -ML = -0.0324 
+	 -KLD = 0.0630
+Saving Epoch: 22200/50000 
+	 -ELBO = 0.0307 
+	 -ML = -0.0323 
+	 -KLD = 0.0630
+Saving Epoch: 22300/50000 
+	 -ELBO = 0.0304 
+	 -ML = -0.0325 
+	 -KLD = 0.0629
+Saving Epoch: 22400/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0324 
+	 -KLD = 0.0629
+Saving Epoch: 22500/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0325 
+	 -KLD = 0.0630
+Saving Epoch: 22600/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0326 
+	 -KLD = 0.0632
+Saving Epoch: 22700/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0325 
+	 -KLD = 0.0630
+Saving Epoch: 22800/50000 
+	 -ELBO = 0.0306 
+	 -ML = -0.0324 
+	 -KLD = 0.0631
+Saving Epoch: 22900/50000 
+	 -ELBO = 0.0310 
+	 -ML = -0.0321 
+	 -KLD = 0.0631
+Saving Epoch: 23000/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0325 
+	 -KLD = 0.0631
+Saving Epoch: 23100/50000 
+	 -ELBO = 0.0304 
+	 -ML = -0.0328 
+	 -KLD = 0.0633
+Saving Epoch: 23200/50000 
+	 -ELBO = 0.0307 
+	 -ML = -0.0325 
+	 -KLD = 0.0632
+Saving Epoch: 23300/50000 
+	 -ELBO = 0.0303 
+	 -ML = -0.0329 
+	 -KLD = 0.0631
+Saving Epoch: 23400/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0328 
+	 -KLD = 0.0632
+Saving Epoch: 23500/50000 
+	 -ELBO = 0.0308 
+	 -ML = -0.0325 
+	 -KLD = 0.0633
+Saving Epoch: 23600/50000 
+	 -ELBO = 0.0304 
+	 -ML = -0.0327 
+	 -KLD = 0.0631
+Saving Epoch: 23700/50000 
+	 -ELBO = 0.0304 
+	 -ML = -0.0328 
+	 -KLD = 0.0633
+Saving Epoch: 23800/50000 
+	 -ELBO = 0.0303 
+	 -ML = -0.0330 
+	 -KLD = 0.0633
+Saving Epoch: 23900/50000 
+	 -ELBO = 0.0302 
+	 -ML = -0.0331 
+	 -KLD = 0.0633
+Saving Epoch: 24000/50000 
+	 -ELBO = 0.0301 
+	 -ML = -0.0330 
+	 -KLD = 0.0631
+Saving Epoch: 24100/50000 
+	 -ELBO = 0.0307 
+	 -ML = -0.0328 
+	 -KLD = 0.0634
+Saving Epoch: 24200/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0329 
+	 -KLD = 0.0634
+Saving Epoch: 24300/50000 
+	 -ELBO = 0.0328 
+	 -ML = -0.0304 
+	 -KLD = 0.0632
+Saving Epoch: 24400/50000 
+	 -ELBO = 0.0300 
+	 -ML = -0.0332 
+	 -KLD = 0.0632
+Saving Epoch: 24500/50000 
+	 -ELBO = 0.0302 
+	 -ML = -0.0333 
+	 -KLD = 0.0635
+Saving Epoch: 24600/50000 
+	 -ELBO = 0.0303 
+	 -ML = -0.0331 
+	 -KLD = 0.0634
+Saving Epoch: 24700/50000 
+	 -ELBO = 0.0304 
+	 -ML = -0.0330 
+	 -KLD = 0.0633
+Saving Epoch: 24800/50000 
+	 -ELBO = 0.0304 
+	 -ML = -0.0331 
+	 -KLD = 0.0635
+Saving Epoch: 24900/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0330 
+	 -KLD = 0.0635
+Saving Epoch: 25000/50000 
+	 -ELBO = 0.0310 
+	 -ML = -0.0323 
+	 -KLD = 0.0633
+Saving Epoch: 25100/50000 
+	 -ELBO = 0.0302 
+	 -ML = -0.0332 
+	 -KLD = 0.0634
+Saving Epoch: 25200/50000 
+	 -ELBO = 0.0304 
+	 -ML = -0.0331 
+	 -KLD = 0.0635
+Saving Epoch: 25300/50000 
+	 -ELBO = 0.0301 
+	 -ML = -0.0335 
+	 -KLD = 0.0636
+Saving Epoch: 25400/50000 
+	 -ELBO = 0.0300 
+	 -ML = -0.0335 
+	 -KLD = 0.0635
+Saving Epoch: 25500/50000 
+	 -ELBO = 0.0302 
+	 -ML = -0.0333 
+	 -KLD = 0.0635
+Saving Epoch: 25600/50000 
+	 -ELBO = 0.0304 
+	 -ML = -0.0332 
+	 -KLD = 0.0636
+Saving Epoch: 25700/50000 
+	 -ELBO = 0.0301 
+	 -ML = -0.0334 
+	 -KLD = 0.0636
+Saving Epoch: 25800/50000 
+	 -ELBO = 0.0302 
+	 -ML = -0.0333 
+	 -KLD = 0.0636
+Saving Epoch: 25900/50000 
+	 -ELBO = 0.0311 
+	 -ML = -0.0325 
+	 -KLD = 0.0635
+Saving Epoch: 26000/50000 
+	 -ELBO = 0.0304 
+	 -ML = -0.0333 
+	 -KLD = 0.0636
+Saving Epoch: 26100/50000 
+	 -ELBO = 0.0300 
+	 -ML = -0.0336 
+	 -KLD = 0.0636
+Saving Epoch: 26200/50000 
+	 -ELBO = 0.0300 
+	 -ML = -0.0336 
+	 -KLD = 0.0636
+Saving Epoch: 26300/50000 
+	 -ELBO = 0.0301 
+	 -ML = -0.0335 
+	 -KLD = 0.0636
+Saving Epoch: 26400/50000 
+	 -ELBO = 0.0302 
+	 -ML = -0.0335 
+	 -KLD = 0.0637
+Saving Epoch: 26500/50000 
+	 -ELBO = 0.0301 
+	 -ML = -0.0335 
+	 -KLD = 0.0636
+Saving Epoch: 26600/50000 
+	 -ELBO = 0.0307 
+	 -ML = -0.0330 
+	 -KLD = 0.0637
+Saving Epoch: 26700/50000 
+	 -ELBO = 0.0299 
+	 -ML = -0.0338 
+	 -KLD = 0.0638
+Saving Epoch: 26800/50000 
+	 -ELBO = 0.0298 
+	 -ML = -0.0339 
+	 -KLD = 0.0637
+Saving Epoch: 26900/50000 
+	 -ELBO = 0.0306 
+	 -ML = -0.0331 
+	 -KLD = 0.0637
+Saving Epoch: 27000/50000 
+	 -ELBO = 0.0302 
+	 -ML = -0.0336 
+	 -KLD = 0.0638
+Saving Epoch: 27100/50000 
+	 -ELBO = 0.0302 
+	 -ML = -0.0335 
+	 -KLD = 0.0637
+Saving Epoch: 27200/50000 
+	 -ELBO = 0.0301 
+	 -ML = -0.0337 
+	 -KLD = 0.0639
+Saving Epoch: 27300/50000 
+	 -ELBO = 0.0301 
+	 -ML = -0.0337 
+	 -KLD = 0.0638
+Saving Epoch: 27400/50000 
+	 -ELBO = 0.0299 
+	 -ML = -0.0337 
+	 -KLD = 0.0637
+Saving Epoch: 27500/50000 
+	 -ELBO = 0.0303 
+	 -ML = -0.0335 
+	 -KLD = 0.0638
+Saving Epoch: 27600/50000 
+	 -ELBO = 0.0301 
+	 -ML = -0.0336 
+	 -KLD = 0.0638
+Saving Epoch: 27700/50000 
+	 -ELBO = 0.0299 
+	 -ML = -0.0340 
+	 -KLD = 0.0640
+Saving Epoch: 27800/50000 
+	 -ELBO = 0.0306 
+	 -ML = -0.0333 
+	 -KLD = 0.0639
+Saving Epoch: 27900/50000 
+	 -ELBO = 0.0303 
+	 -ML = -0.0335 
+	 -KLD = 0.0638
+Saving Epoch: 28000/50000 
+	 -ELBO = 0.0301 
+	 -ML = -0.0337 
+	 -KLD = 0.0639
+Saving Epoch: 28100/50000 
+	 -ELBO = 0.0300 
+	 -ML = -0.0340 
+	 -KLD = 0.0639
+Saving Epoch: 28200/50000 
+	 -ELBO = 0.0300 
+	 -ML = -0.0340 
+	 -KLD = 0.0640
+Saving Epoch: 28300/50000 
+	 -ELBO = 0.0301 
+	 -ML = -0.0338 
+	 -KLD = 0.0639
+Saving Epoch: 28400/50000 
+	 -ELBO = 0.0310 
+	 -ML = -0.0329 
+	 -KLD = 0.0638
+Saving Epoch: 28500/50000 
+	 -ELBO = 0.0307 
+	 -ML = -0.0333 
+	 -KLD = 0.0640
+Saving Epoch: 28600/50000 
+	 -ELBO = 0.0300 
+	 -ML = -0.0339 
+	 -KLD = 0.0639
+Saving Epoch: 28700/50000 
+	 -ELBO = 0.0300 
+	 -ML = -0.0340 
+	 -KLD = 0.0640
+Saving Epoch: 28800/50000 
+	 -ELBO = 0.0299 
+	 -ML = -0.0341 
+	 -KLD = 0.0640
+Saving Epoch: 28900/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0343 
+	 -KLD = 0.0639
+Saving Epoch: 29000/50000 
+	 -ELBO = 0.0299 
+	 -ML = -0.0341 
+	 -KLD = 0.0640
+Saving Epoch: 29100/50000 
+	 -ELBO = 0.0298 
+	 -ML = -0.0338 
+	 -KLD = 0.0636
+Saving Epoch: 29200/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0337 
+	 -KLD = 0.0642
+Saving Epoch: 29300/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0337 
+	 -KLD = 0.0642
+Saving Epoch: 29400/50000 
+	 -ELBO = 0.0306 
+	 -ML = -0.0335 
+	 -KLD = 0.0641
+Saving Epoch: 29500/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0344 
+	 -KLD = 0.0642
+Saving Epoch: 29600/50000 
+	 -ELBO = 0.0299 
+	 -ML = -0.0340 
+	 -KLD = 0.0639
+Saving Epoch: 29700/50000 
+	 -ELBO = 0.0298 
+	 -ML = -0.0343 
+	 -KLD = 0.0641
+Saving Epoch: 29800/50000 
+	 -ELBO = 0.0300 
+	 -ML = -0.0340 
+	 -KLD = 0.0640
+Saving Epoch: 29900/50000 
+	 -ELBO = 0.0302 
+	 -ML = -0.0339 
+	 -KLD = 0.0641
+Saving Epoch: 30000/50000 
+	 -ELBO = 0.0298 
+	 -ML = -0.0344 
+	 -KLD = 0.0641
+Saving Epoch: 30100/50000 
+	 -ELBO = 0.0302 
+	 -ML = -0.0341 
+	 -KLD = 0.0643
+Saving Epoch: 30200/50000 
+	 -ELBO = 0.0299 
+	 -ML = -0.0342 
+	 -KLD = 0.0641
+Saving Epoch: 30300/50000 
+	 -ELBO = 0.0300 
+	 -ML = -0.0341 
+	 -KLD = 0.0640
+Saving Epoch: 30400/50000 
+	 -ELBO = 0.0298 
+	 -ML = -0.0344 
+	 -KLD = 0.0642
+Saving Epoch: 30500/50000 
+	 -ELBO = 0.0298 
+	 -ML = -0.0343 
+	 -KLD = 0.0641
+Saving Epoch: 30600/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0346 
+	 -KLD = 0.0642
+Saving Epoch: 30700/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0346 
+	 -KLD = 0.0644
+Saving Epoch: 30800/50000 
+	 -ELBO = 0.0298 
+	 -ML = -0.0343 
+	 -KLD = 0.0641
+Saving Epoch: 30900/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0346 
+	 -KLD = 0.0643
+Saving Epoch: 31000/50000 
+	 -ELBO = 0.0298 
+	 -ML = -0.0346 
+	 -KLD = 0.0644
+Saving Epoch: 31100/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0347 
+	 -KLD = 0.0644
+Saving Epoch: 31200/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0347 
+	 -KLD = 0.0644
+Saving Epoch: 31300/50000 
+	 -ELBO = 0.0298 
+	 -ML = -0.0346 
+	 -KLD = 0.0644
+Saving Epoch: 31400/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0348 
+	 -KLD = 0.0643
+Saving Epoch: 31500/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0347 
+	 -KLD = 0.0644
+Saving Epoch: 31600/50000 
+	 -ELBO = 0.0299 
+	 -ML = -0.0343 
+	 -KLD = 0.0642
+Saving Epoch: 31700/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0349 
+	 -KLD = 0.0644
+Saving Epoch: 31800/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0349 
+	 -KLD = 0.0645
+Saving Epoch: 31900/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0347 
+	 -KLD = 0.0644
+Saving Epoch: 32000/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0348 
+	 -KLD = 0.0645
+Saving Epoch: 32100/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0347 
+	 -KLD = 0.0644
+Saving Epoch: 32200/50000 
+	 -ELBO = 0.0299 
+	 -ML = -0.0344 
+	 -KLD = 0.0643
+Saving Epoch: 32300/50000 
+	 -ELBO = 0.0299 
+	 -ML = -0.0347 
+	 -KLD = 0.0646
+Saving Epoch: 32400/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0349 
+	 -KLD = 0.0645
+Saving Epoch: 32500/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0349 
+	 -KLD = 0.0644
+Saving Epoch: 32600/50000 
+	 -ELBO = 0.0299 
+	 -ML = -0.0346 
+	 -KLD = 0.0645
+Saving Epoch: 32700/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0347 
+	 -KLD = 0.0644
+Saving Epoch: 32800/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0349 
+	 -KLD = 0.0645
+Saving Epoch: 32900/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0349 
+	 -KLD = 0.0644
+Saving Epoch: 33000/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0350 
+	 -KLD = 0.0646
+Saving Epoch: 33100/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0352 
+	 -KLD = 0.0645
+Saving Epoch: 33200/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0352 
+	 -KLD = 0.0646
+Saving Epoch: 33300/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0350 
+	 -KLD = 0.0646
+Saving Epoch: 33400/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0349 
+	 -KLD = 0.0646
+Saving Epoch: 33500/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0350 
+	 -KLD = 0.0646
+Saving Epoch: 33600/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0349 
+	 -KLD = 0.0645
+Saving Epoch: 33700/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0350 
+	 -KLD = 0.0645
+Saving Epoch: 33800/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0353 
+	 -KLD = 0.0646
+Saving Epoch: 33900/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0352 
+	 -KLD = 0.0647
+Saving Epoch: 34000/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0352 
+	 -KLD = 0.0647
+Saving Epoch: 34100/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0350 
+	 -KLD = 0.0647
+Saving Epoch: 34200/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0352 
+	 -KLD = 0.0646
+Saving Epoch: 34300/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0352 
+	 -KLD = 0.0648
+Saving Epoch: 34400/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0353 
+	 -KLD = 0.0648
+Saving Epoch: 34500/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0353 
+	 -KLD = 0.0647
+Saving Epoch: 34600/50000 
+	 -ELBO = 0.0298 
+	 -ML = -0.0349 
+	 -KLD = 0.0647
+Saving Epoch: 34700/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0352 
+	 -KLD = 0.0649
+Saving Epoch: 34800/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0355 
+	 -KLD = 0.0648
+Saving Epoch: 34900/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0354 
+	 -KLD = 0.0649
+Saving Epoch: 35000/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0354 
+	 -KLD = 0.0650
+Saving Epoch: 35100/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0355 
+	 -KLD = 0.0649
+Saving Epoch: 35200/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0351 
+	 -KLD = 0.0648
+Saving Epoch: 35300/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0344 
+	 -KLD = 0.0648
+Saving Epoch: 35400/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0356 
+	 -KLD = 0.0649
+Saving Epoch: 35500/50000 
+	 -ELBO = 0.0303 
+	 -ML = -0.0345 
+	 -KLD = 0.0648
+Saving Epoch: 35600/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0354 
+	 -KLD = 0.0649
+Saving Epoch: 35700/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0352 
+	 -KLD = 0.0648
+Saving Epoch: 35800/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0353 
+	 -KLD = 0.0649
+Saving Epoch: 35900/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0355 
+	 -KLD = 0.0648
+Saving Epoch: 36000/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0355 
+	 -KLD = 0.0650
+Saving Epoch: 36100/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0353 
+	 -KLD = 0.0650
+Saving Epoch: 36200/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0358 
+	 -KLD = 0.0651
+Saving Epoch: 36300/50000 
+	 -ELBO = 0.0298 
+	 -ML = -0.0352 
+	 -KLD = 0.0650
+Saving Epoch: 36400/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0353 
+	 -KLD = 0.0649
+Saving Epoch: 36500/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0356 
+	 -KLD = 0.0649
+Saving Epoch: 36600/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0356 
+	 -KLD = 0.0649
+Saving Epoch: 36700/50000 
+	 -ELBO = 0.0292 
+	 -ML = -0.0357 
+	 -KLD = 0.0649
+Saving Epoch: 36800/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0356 
+	 -KLD = 0.0649
+Saving Epoch: 36900/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0356 
+	 -KLD = 0.0649
+Saving Epoch: 37000/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0353 
+	 -KLD = 0.0650
+Saving Epoch: 37100/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0356 
+	 -KLD = 0.0649
+Saving Epoch: 37200/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0356 
+	 -KLD = 0.0650
+Saving Epoch: 37300/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0358 
+	 -KLD = 0.0649
+Saving Epoch: 37400/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0358 
+	 -KLD = 0.0652
+Saving Epoch: 37500/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0354 
+	 -KLD = 0.0651
+Saving Epoch: 37600/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0360 
+	 -KLD = 0.0651
+Saving Epoch: 37700/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0352 
+	 -KLD = 0.0649
+Saving Epoch: 37800/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0358 
+	 -KLD = 0.0652
+Saving Epoch: 37900/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0361 
+	 -KLD = 0.0652
+Saving Epoch: 38000/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0357 
+	 -KLD = 0.0652
+Saving Epoch: 38100/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0356 
+	 -KLD = 0.0649
+Saving Epoch: 38200/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0355 
+	 -KLD = 0.0651
+Saving Epoch: 38300/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0359 
+	 -KLD = 0.0650
+Saving Epoch: 38400/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0358 
+	 -KLD = 0.0651
+Saving Epoch: 38500/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0360 
+	 -KLD = 0.0651
+Saving Epoch: 38600/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0356 
+	 -KLD = 0.0652
+Saving Epoch: 38700/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0359 
+	 -KLD = 0.0652
+Saving Epoch: 38800/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0356 
+	 -KLD = 0.0653
+Saving Epoch: 38900/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0359 
+	 -KLD = 0.0654
+Saving Epoch: 39000/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0359 
+	 -KLD = 0.0653
+Saving Epoch: 39100/50000 
+	 -ELBO = 0.0297 
+	 -ML = -0.0358 
+	 -KLD = 0.0654
+Saving Epoch: 39200/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0356 
+	 -KLD = 0.0653
+Saving Epoch: 39300/50000 
+	 -ELBO = 0.0300 
+	 -ML = -0.0354 
+	 -KLD = 0.0654
+Saving Epoch: 39400/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0358 
+	 -KLD = 0.0652
+Saving Epoch: 39500/50000 
+	 -ELBO = 0.0292 
+	 -ML = -0.0361 
+	 -KLD = 0.0652
+Saving Epoch: 39600/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0364 
+	 -KLD = 0.0655
+Saving Epoch: 39700/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0359 
+	 -KLD = 0.0654
+Saving Epoch: 39800/50000 
+	 -ELBO = 0.0290 
+	 -ML = -0.0363 
+	 -KLD = 0.0654
+Saving Epoch: 39900/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0361 
+	 -KLD = 0.0654
+Saving Epoch: 40000/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0361 
+	 -KLD = 0.0654
+Saving Epoch: 40100/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0363 
+	 -KLD = 0.0654
+Saving Epoch: 40200/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0359 
+	 -KLD = 0.0652
+Saving Epoch: 40300/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0361 
+	 -KLD = 0.0652
+Saving Epoch: 40400/50000 
+	 -ELBO = 0.0290 
+	 -ML = -0.0363 
+	 -KLD = 0.0653
+Saving Epoch: 40500/50000 
+	 -ELBO = 0.0292 
+	 -ML = -0.0362 
+	 -KLD = 0.0654
+Saving Epoch: 40600/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0356 
+	 -KLD = 0.0652
+Saving Epoch: 40700/50000 
+	 -ELBO = 0.0290 
+	 -ML = -0.0364 
+	 -KLD = 0.0654
+Saving Epoch: 40800/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0361 
+	 -KLD = 0.0654
+Saving Epoch: 40900/50000 
+	 -ELBO = 0.0292 
+	 -ML = -0.0362 
+	 -KLD = 0.0653
+Saving Epoch: 41000/50000 
+	 -ELBO = 0.0290 
+	 -ML = -0.0365 
+	 -KLD = 0.0655
+Saving Epoch: 41100/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0363 
+	 -KLD = 0.0654
+Saving Epoch: 41200/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0359 
+	 -KLD = 0.0652
+Saving Epoch: 41300/50000 
+	 -ELBO = 0.0290 
+	 -ML = -0.0364 
+	 -KLD = 0.0654
+Saving Epoch: 41400/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0361 
+	 -KLD = 0.0653
+Saving Epoch: 41500/50000 
+	 -ELBO = 0.0299 
+	 -ML = -0.0357 
+	 -KLD = 0.0656
+Saving Epoch: 41600/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0364 
+	 -KLD = 0.0655
+Saving Epoch: 41700/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0362 
+	 -KLD = 0.0656
+Saving Epoch: 41800/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0364 
+	 -KLD = 0.0655
+Saving Epoch: 41900/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0365 
+	 -KLD = 0.0655
+Saving Epoch: 42000/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0363 
+	 -KLD = 0.0655
+Saving Epoch: 42100/50000 
+	 -ELBO = 0.0292 
+	 -ML = -0.0364 
+	 -KLD = 0.0656
+Saving Epoch: 42200/50000 
+	 -ELBO = 0.0290 
+	 -ML = -0.0366 
+	 -KLD = 0.0655
+Saving Epoch: 42300/50000 
+	 -ELBO = 0.0295 
+	 -ML = -0.0361 
+	 -KLD = 0.0656
+Saving Epoch: 42400/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0362 
+	 -KLD = 0.0657
+Saving Epoch: 42500/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0364 
+	 -KLD = 0.0657
+Saving Epoch: 42600/50000 
+	 -ELBO = 0.0290 
+	 -ML = -0.0367 
+	 -KLD = 0.0657
+Saving Epoch: 42700/50000 
+	 -ELBO = 0.0288 
+	 -ML = -0.0368 
+	 -KLD = 0.0656
+Saving Epoch: 42800/50000 
+	 -ELBO = 0.0294 
+	 -ML = -0.0363 
+	 -KLD = 0.0656
+Saving Epoch: 42900/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0364 
+	 -KLD = 0.0657
+Saving Epoch: 43000/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0366 
+	 -KLD = 0.0656
+Saving Epoch: 43100/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0368 
+	 -KLD = 0.0656
+Saving Epoch: 43200/50000 
+	 -ELBO = 0.0290 
+	 -ML = -0.0367 
+	 -KLD = 0.0657
+Saving Epoch: 43300/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0366 
+	 -KLD = 0.0657
+Saving Epoch: 43400/50000 
+	 -ELBO = 0.0288 
+	 -ML = -0.0366 
+	 -KLD = 0.0654
+Saving Epoch: 43500/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0367 
+	 -KLD = 0.0656
+Saving Epoch: 43600/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0368 
+	 -KLD = 0.0657
+Saving Epoch: 43700/50000 
+	 -ELBO = 0.0296 
+	 -ML = -0.0362 
+	 -KLD = 0.0657
+Saving Epoch: 43800/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0368 
+	 -KLD = 0.0657
+Saving Epoch: 43900/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0367 
+	 -KLD = 0.0657
+Saving Epoch: 44000/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0363 
+	 -KLD = 0.0656
+Saving Epoch: 44100/50000 
+	 -ELBO = 0.0290 
+	 -ML = -0.0367 
+	 -KLD = 0.0657
+Saving Epoch: 44200/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0365 
+	 -KLD = 0.0657
+Saving Epoch: 44300/50000 
+	 -ELBO = 0.0292 
+	 -ML = -0.0366 
+	 -KLD = 0.0658
+Saving Epoch: 44400/50000 
+	 -ELBO = 0.0290 
+	 -ML = -0.0367 
+	 -KLD = 0.0657
+Saving Epoch: 44500/50000 
+	 -ELBO = 0.0287 
+	 -ML = -0.0372 
+	 -KLD = 0.0658
+Saving Epoch: 44600/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0369 
+	 -KLD = 0.0658
+Saving Epoch: 44700/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0369 
+	 -KLD = 0.0659
+Saving Epoch: 44800/50000 
+	 -ELBO = 0.0287 
+	 -ML = -0.0373 
+	 -KLD = 0.0659
+Saving Epoch: 44900/50000 
+	 -ELBO = 0.0287 
+	 -ML = -0.0370 
+	 -KLD = 0.0658
+Saving Epoch: 45000/50000 
+	 -ELBO = 0.0287 
+	 -ML = -0.0371 
+	 -KLD = 0.0658
+Saving Epoch: 45100/50000 
+	 -ELBO = 0.0292 
+	 -ML = -0.0368 
+	 -KLD = 0.0659
+Saving Epoch: 45200/50000 
+	 -ELBO = 0.0288 
+	 -ML = -0.0371 
+	 -KLD = 0.0659
+Saving Epoch: 45300/50000 
+	 -ELBO = 0.0287 
+	 -ML = -0.0371 
+	 -KLD = 0.0658
+Saving Epoch: 45400/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0369 
+	 -KLD = 0.0658
+Saving Epoch: 45500/50000 
+	 -ELBO = 0.0290 
+	 -ML = -0.0369 
+	 -KLD = 0.0660
+Saving Epoch: 45600/50000 
+	 -ELBO = 0.0288 
+	 -ML = -0.0370 
+	 -KLD = 0.0658
+Saving Epoch: 45700/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0371 
+	 -KLD = 0.0660
+Saving Epoch: 45800/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0368 
+	 -KLD = 0.0659
+Saving Epoch: 45900/50000 
+	 -ELBO = 0.0288 
+	 -ML = -0.0372 
+	 -KLD = 0.0660
+Saving Epoch: 46000/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0366 
+	 -KLD = 0.0659
+Saving Epoch: 46100/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0370 
+	 -KLD = 0.0659
+Saving Epoch: 46200/50000 
+	 -ELBO = 0.0286 
+	 -ML = -0.0373 
+	 -KLD = 0.0658
+Saving Epoch: 46300/50000 
+	 -ELBO = 0.0310 
+	 -ML = -0.0349 
+	 -KLD = 0.0659
+Saving Epoch: 46400/50000 
+	 -ELBO = 0.0287 
+	 -ML = -0.0372 
+	 -KLD = 0.0659
+Saving Epoch: 46500/50000 
+	 -ELBO = 0.0286 
+	 -ML = -0.0372 
+	 -KLD = 0.0657
+Saving Epoch: 46600/50000 
+	 -ELBO = 0.0288 
+	 -ML = -0.0373 
+	 -KLD = 0.0661
+Saving Epoch: 46700/50000 
+	 -ELBO = 0.0290 
+	 -ML = -0.0371 
+	 -KLD = 0.0661
+Saving Epoch: 46800/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0370 
+	 -KLD = 0.0659
+Saving Epoch: 46900/50000 
+	 -ELBO = 0.0287 
+	 -ML = -0.0372 
+	 -KLD = 0.0659
+Saving Epoch: 47000/50000 
+	 -ELBO = 0.0288 
+	 -ML = -0.0370 
+	 -KLD = 0.0658
+Saving Epoch: 47100/50000 
+	 -ELBO = 0.0288 
+	 -ML = -0.0373 
+	 -KLD = 0.0661
+Saving Epoch: 47200/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0369 
+	 -KLD = 0.0658
+Saving Epoch: 47300/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0370 
+	 -KLD = 0.0660
+Saving Epoch: 47400/50000 
+	 -ELBO = 0.0288 
+	 -ML = -0.0370 
+	 -KLD = 0.0658
+Saving Epoch: 47500/50000 
+	 -ELBO = 0.0290 
+	 -ML = -0.0371 
+	 -KLD = 0.0660
+Saving Epoch: 47600/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0373 
+	 -KLD = 0.0662
+Saving Epoch: 47700/50000 
+	 -ELBO = 0.0285 
+	 -ML = -0.0372 
+	 -KLD = 0.0657
+Saving Epoch: 47800/50000 
+	 -ELBO = 0.0285 
+	 -ML = -0.0373 
+	 -KLD = 0.0658
+Saving Epoch: 47900/50000 
+	 -ELBO = 0.0305 
+	 -ML = -0.0356 
+	 -KLD = 0.0661
+Saving Epoch: 48000/50000 
+	 -ELBO = 0.0288 
+	 -ML = -0.0372 
+	 -KLD = 0.0661
+Saving Epoch: 48100/50000 
+	 -ELBO = 0.0287 
+	 -ML = -0.0374 
+	 -KLD = 0.0660
+Saving Epoch: 48200/50000 
+	 -ELBO = 0.0284 
+	 -ML = -0.0375 
+	 -KLD = 0.0659
+Saving Epoch: 48300/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0373 
+	 -KLD = 0.0661
+Saving Epoch: 48400/50000 
+	 -ELBO = 0.0286 
+	 -ML = -0.0375 
+	 -KLD = 0.0661
+Saving Epoch: 48500/50000 
+	 -ELBO = 0.0287 
+	 -ML = -0.0372 
+	 -KLD = 0.0659
+Saving Epoch: 48600/50000 
+	 -ELBO = 0.0290 
+	 -ML = -0.0372 
+	 -KLD = 0.0663
+Saving Epoch: 48700/50000 
+	 -ELBO = 0.0284 
+	 -ML = -0.0377 
+	 -KLD = 0.0661
+Saving Epoch: 48800/50000 
+	 -ELBO = 0.0292 
+	 -ML = -0.0370 
+	 -KLD = 0.0662
+Saving Epoch: 48900/50000 
+	 -ELBO = 0.0285 
+	 -ML = -0.0376 
+	 -KLD = 0.0661
+Saving Epoch: 49000/50000 
+	 -ELBO = 0.0285 
+	 -ML = -0.0374 
+	 -KLD = 0.0659
+Saving Epoch: 49100/50000 
+	 -ELBO = 0.0287 
+	 -ML = -0.0374 
+	 -KLD = 0.0661
+Saving Epoch: 49200/50000 
+	 -ELBO = 0.0285 
+	 -ML = -0.0377 
+	 -KLD = 0.0662
+Saving Epoch: 49300/50000 
+	 -ELBO = 0.0291 
+	 -ML = -0.0372 
+	 -KLD = 0.0663
+Saving Epoch: 49400/50000 
+	 -ELBO = 0.0287 
+	 -ML = -0.0375 
+	 -KLD = 0.0662
+Saving Epoch: 49500/50000 
+	 -ELBO = 0.0293 
+	 -ML = -0.0368 
+	 -KLD = 0.0661
+Saving Epoch: 49600/50000 
+	 -ELBO = 0.0287 
+	 -ML = -0.0376 
+	 -KLD = 0.0663
+Saving Epoch: 49700/50000 
+	 -ELBO = 0.0284 
+	 -ML = -0.0378 
+	 -KLD = 0.0662
+Saving Epoch: 49800/50000 
+	 -ELBO = 0.0288 
+	 -ML = -0.0374 
+	 -KLD = 0.0662
+Saving Epoch: 49900/50000 
+	 -ELBO = 0.0289 
+	 -ML = -0.0375 
+	 -KLD = 0.0663
+Saving Epoch: 50000/50000 
+	 -ELBO = 0.0286 
+	 -ML = -0.0377 
+	 -KLD = 0.0663
